@@ -186,7 +186,7 @@ This approach ensures that sensitive patient data receives maximum protection wh
 
 ## Integrating with Existing PostgreSQL Databases
 
-Yes, a Data Privacy Vault can be seamlessly integrated with an existing PostgreSQL database. This approach allows organizations to enhance their data protection capabilities without completely rebuilding their data infrastructure. The integration follows a pattern of identifying sensitive data, extracting it to the vault, and replacing it with tokens in the original database.
+A Data Privacy Vault can be seamlessly integrated with an existing PostgreSQL database. This approach allows organizations to enhance their data protection capabilities without completely rebuilding their data infrastructure. The integration follows a pattern of identifying sensitive data, extracting it to the vault, and replacing it with tokens in the original database.
 
 ### Integration Steps
 
